@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mon application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="AI_title">AIActivité:</string>
+    <string name="VR_title">VRAactivité:</string>
+    <string name="title">Démonstration des méthodes du cycle de vie</string>
+    <string name="onCreateExecuted">onCreate exécuté</string>
+    <string name="onStartExecuted">onStart exécuté</string>
+    <string name="onStopExecuted">onStop exécuté</string>
+    <string name="onDestroyExecuted">onDestroy exécuté</string>
+    <string name="Main_title">Activité principale:</string>
+</resources>

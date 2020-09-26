@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="AI_title" translatable="false">AIActivity:</string>
+    <string name="VR_title" translatable="false">VRActivity:</string>
+    <string name="title" translatable="false">Life Cycle Methods Demonstration</string>
+    <string name="onCreateExecuted" translatable="false">onCreate Executed</string>
+    <string name="onStartExecuted" translatable="false">onStart Executed</string>
+    <string name="onStopExecuted" translatable="false">onStop Executed</string>
+    <string name="onDestroyExecuted" translatable="false">onDestroy Executed</string>
+    <string name="Main_title" translatable="false">Main Activity:</string>
+</resources>
